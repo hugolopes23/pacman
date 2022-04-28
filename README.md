@@ -1,16 +1,16 @@
-Project Title: Pacman
+#Project Title: Pacman
 
-Description of Project:
+#Description of Project:
 This project is to create images of pacman that will move randomly thoughout the screen. Once an iamge makes contact with a border
 it will change directions.
 
-How to Run:
+#How to Run:
 To play the game download the repo zip. Once you have the files downloaded open the pacmen.html into your browser.
 
-Run Roadmap of future improvements:
+#Run Roadmap of future improvements:
 I would like to add a feature that would allow each image of pacmen bounce off one another.
 
-Licensing Information:
+#Licensing Information:
 Copyright (c) 2020 John Williams
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
