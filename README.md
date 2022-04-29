@@ -7,7 +7,7 @@ it will change directions.
 # How to Run:
 To play the game download the repo zip. Once you have the files downloaded open the pacmen.html into your browser.
 
-# Run Roadmap of future improvements:
+# Roadmap of future improvements:
 I would like to add a feature that would allow each image of pacmen bounce off one another.
 
 # Licensing Information:
